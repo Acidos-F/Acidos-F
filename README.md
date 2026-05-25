@@ -51,15 +51,3 @@ I’m an **IT student and aspiring full‑stack developer** focused on building 
 - Simple games created for coursework to master programming fundamentals
 
 > Most of my repositories are academic and personal projects that demonstrate backend logic, database design, and system workflows.
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Acidos-F&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Acidos-F&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acidos-F&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
