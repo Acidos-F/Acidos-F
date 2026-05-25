@@ -1,24 +1,7 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%27m%20Gab&desc=Aspiring%20Full%E2%80%91stack%20Developer&descAlign=50&descAlignY=66)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielaarongonzales) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@Acidos)
-
-</div>
-
 ---
 
 # 💫 About Me
 I’m an **IT student and aspiring full‑stack developer** focused on building practical, backend‑driven web systems. I enjoy working on real‑world problems—especially systems that involve databases, admin dashboards, and business logic.
-
----
-
-## 💻 What I Do
-I enjoy working on real‑world problems—especially systems that involve databases, admin dashboards, and business logic.
-- 🏗️ **Build** backend‑driven web applications
-- 🗄️ **Design** and manage relational databases (MySQL, SQL Server)
-- 📊 **Create** admin dashboards and booking systems
-- 🔐 **Implement** email verification, validations, and system logic
 
 ---
 
@@ -69,14 +52,6 @@ I enjoy working on real‑world problems—especially systems that involve datab
 
 > Most of my repositories are academic and personal projects that demonstrate backend logic, database design, and system workflows.
 
----
-
-## 🌱 Currently Learning
-- Writing cleaner and more maintainable code
-- Full‑stack system design and best practices
-- Improving backend architecture skills
-
----
 
 ## 📊 GitHub Stats
 
@@ -88,12 +63,3 @@ I enjoy working on real‑world problems—especially systems that involve datab
 
 </div>
 
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
